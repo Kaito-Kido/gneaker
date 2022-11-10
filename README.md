@@ -6,4 +6,4 @@
 >cd server/<br/>
 >npm run dev<br/>
 
-<a href="https://www.batdaulaptrinh.com">Live demo</a>
+<a href="https://g-sneaker-test.herokuapp.com/">Live demo</a>
