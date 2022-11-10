@@ -1,9 +1,9 @@
 # Gneaker
 
-How to run on local
+<h3>How to run on local</h3>
 
-  npm install -g concurrently
-  cd server/
-  npm run dev
+>npm install -g concurrently<br/>
+>cd server/<br/>
+>npm run dev<br/>
 
-[Live demo]:(https://g-sneaker-test.herokuapp.com/)
+<a href="https://www.batdaulaptrinh.com">Live demo</a>
